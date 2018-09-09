@@ -1,4 +1,4 @@
-### Small files problem: using SQL through Hive and Impala to combine files
+### Small files problem in Hive and Impala: using SQL to combine files
 
 When working with Hive and Impala tables sometimes large number of small files are created. A quick way of consolidating the files is to run the following query. 
 
